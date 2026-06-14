@@ -1,0 +1,6 @@
+@PearlineAPI_HostAddress = http://localhost:5031
+
+GET {{PearlineAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
